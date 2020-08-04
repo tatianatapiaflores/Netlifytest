@@ -80,7 +80,7 @@ my-app
 │   └── manifest.json
 └── src
     ├── App.css
-    ├── App.js
+    ├── 
     ├── App.test.js
     ├── index.css
     ├── index.js
